@@ -1,2 +1,2 @@
-# projet_desu
+# Projet Desu
 Code utilisé pour le projet.
